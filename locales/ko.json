@@ -1,4 +1,13 @@
 {
+  "settings.monitor": "인식한 모니터",
+  "settings.monitorUnknown": "모니터 정보를 아직 확인하지 못했습니다.",
+  "settings.workArea": "사용 가능한 영역: {width} × {height}",
+  "settings.refreshMonitor": "모니터 다시 인식",
+  "settings.bottomView": "하단 모드 표시 방식",
+  "settings.cropped": "잘리는 모드",
+  "settings.expanded": "확장 모드",
+  "settings.bottomViewDescription": "잘리는 모드는 왼쪽부터 표시합니다. 확장 모드는 마우스 가운데 버튼을 누른 채 드래그해 좌우로 이동합니다. 화면 밖의 맵도 보존됩니다.",
+  "settings.cropPreview": "2×에서 가려지는 영역",
   "common.settings": "설정",
   "common.packs": "팩 관리",
   "common.closePanel": "관리 창 닫기",
