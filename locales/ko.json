@@ -1,6 +1,9 @@
 {
   "packs.reorder": "{name} 순서 변경",
   "settings.general": "일반",
+  "settings.accessibility": "접근성",
+  "settings.reducedMotion": "모션 줄이기",
+  "settings.reducedMotionDescription": "화면 전환, 날씨 효과와 팩 정렬 애니메이션을 줄입니다. 운영체제의 모션 줄이기 설정도 따릅니다.",
   "settings.monitor": "인식한 모니터",
   "settings.monitorUnknown": "모니터 정보를 아직 확인하지 못했습니다.",
   "settings.workArea": "사용 가능한 영역: {width} × {height}",
