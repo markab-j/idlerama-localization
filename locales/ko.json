@@ -231,5 +231,11 @@
   "error.morningSound": "아침 알림 소리를 재생하지 못했습니다. 소리 들어보기를 눌러 다시 확인하세요.",
   "time.mode": "시간 방식",
   "time.manual": "직접 설정",
-  "time.cycle": "자동 진행"
+  "time.cycle": "자동 진행",
+  "character.affinity": "친밀도",
+  "character.togetherTime": "같이 보낸 시간",
+  "character.info": "{name} 정보",
+  "character.loading": "불러오는 중…",
+  "error.affinity": "친밀도 기록을 읽거나 저장하지 못했습니다. {details}",
+  "diagnostic.portraitFallback": "portrait를 읽지 못해 썸네일로 대체했습니다. 썸네일도 없으면 비워 둡니다."
 }
