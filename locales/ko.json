@@ -211,6 +211,8 @@
   "common.quit": "종료",
   "settings.diorama": "디오라마",
   "settings.scale": "배율",
+  "settings.tileMovement": "타일 단위 이동",
+  "settings.tileMovementDescription": "타일 중심을 목적지로 이동합니다. 2·4방향 캐릭터는 상하좌우로, 8방향 캐릭터는 대각선으로도 이동합니다.",
   "settings.appVersion": "앱 버전",
   "settings.errorLog": "오류 로그",
   "error.scaleRange": "배율은 1배 또는 2배여야 합니다.",
