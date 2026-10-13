@@ -56,6 +56,8 @@
   "direction.4dir": "4방향",
   "direction.8dir": "8방향",
   "settings.window": "창 표시",
+  "settings.doNotDisturb": "방해 금지 모드",
+  "settings.doNotDisturbDescription": "툴바를 제외한 디오라마의 클릭을 아래 창으로 통과시킵니다. 타일 배치 중에는 해제됩니다.",
   "settings.alwaysOnTop": "항상 위에 표시",
   "settings.alwaysOnTopDescription": "다른 창 위에 디오라마를 표시합니다.",
   "settings.autoSave": "변경한 설정은 자동으로 저장됩니다.",
